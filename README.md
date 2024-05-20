@@ -19,3 +19,5 @@ Data collection : Excel
 3) Dominance of other platform in booking segment , indicates the hotel chains are not so well connected to their customers as well. To improvise it they have to offer some extra offering/deals to their customers.
 4) As far as the hotels are concerned ,AtliQ Exotica (mumbai) has recorded highest sales of 117M with average rating standing at 4.32, whereas AtliQ Grands (delhi) has recorded lowest sales of 36M with 4.2 rating
 5)AtliQ Palace (delhi) has occupancy % of 66.25% while AtliQ Grands(bangalore) has occupancy % of 44.33%
+LinkedIn post:https://www.linkedin.com/posts/shivakumar-angadi_hospitality-hotel-revenue-activity-7193251677284569089-2A5z?utm_source=share&utm_medium=member_desktop
+Power bi Link:https://app.powerbi.com/view?r=eyJrIjoiZDdmMWY3ZjktYzMwZC00NmNhLThkYTAtOGY4ZmFiYmNiNGRjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
